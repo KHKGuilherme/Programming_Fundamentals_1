@@ -18,7 +18,7 @@ initial and final values of A and B.
 int main(){
     
     //TITLE
-    printf("--------------------------------------\nLesson: Variable\n\n");
+    printf("--------------------------------------\nLesson: Variable\nLanguage: C\n");
     printf("Exercise 2:\n--------------------------------------\n");
 
     //Step 1 -> Initialization of Variables

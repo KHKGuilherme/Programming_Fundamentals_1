@@ -11,7 +11,7 @@ initial and final values of A and B.
 """
 
 #TITLE
-print('--------------------------------------\nLesson: Variable\n')
+print('--------------------------------------\nLesson: Variable\nLanguage: Python')
 print('Exercise 2:\n--------------------------------------')
 
 #Step 1 -> Initialization of Variables

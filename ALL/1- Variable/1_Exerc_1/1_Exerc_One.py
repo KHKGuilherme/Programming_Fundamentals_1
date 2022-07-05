@@ -11,7 +11,7 @@ of your friend and, in another, his e-mail.
 """
 
 #TITLE
-print('--------------------------------------\nLesson: Variable\n')
+print('--------------------------------------\nLesson: Variable\nLanguage: Python')
 print('Exercise 1:\n--------------------------------------')
 
 #Step 1 -> Show your name

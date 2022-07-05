@@ -18,7 +18,7 @@ of your friend and, in another, his e-mail.
 int main(){
     
     //TITLE
-    printf("--------------------------------------\nLesson: Variable\n\n");
+    printf("--------------------------------------\nLesson: Variable\nLanguage: C\n");
     printf("Exercise 1:\n--------------------------------------\n");
 
     //Step 1 -> Show your name

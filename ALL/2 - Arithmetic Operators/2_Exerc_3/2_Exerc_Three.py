@@ -14,8 +14,8 @@ print('--------------------------------------\nLesson: Arithmetic Operators\nLan
 print('Exercise 3:\n--------------------------------------')
 
 #Step 1 -> Start the variables (if necessary)
-variable_A = 40;
-variable_B = -1;
+variable_A = 40
+variable_B = -1
 
 #Step 2 -> Perform calculations and display the results
 print('AFTER:\n')

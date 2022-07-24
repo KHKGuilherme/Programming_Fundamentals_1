@@ -1,6 +1,6 @@
 """
 ---------------------------------------------------------------
-Exercise 3:
+Exercise 4:
 ---------------------------------------------------------------
 Having the Height of the person defined as a constant,
 Calculate your ideal weight using the following formula:
@@ -11,7 +11,7 @@ Calculate your ideal weight using the following formula:
 
 #TITLE
 print('--------------------------------------\nLesson: Arithmetic Operators\nLanguage: Python')
-print('Exercise 3:\n--------------------------------------')
+print('Exercise 4:\n--------------------------------------')
 
 #Step 1 -> Start the variables (if necessary)
 height = 1.77
